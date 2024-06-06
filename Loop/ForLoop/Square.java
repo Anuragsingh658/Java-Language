@@ -1,0 +1,9 @@
+import java.util.*;
+
+public class Square {
+    public static void main(String args[]){
+        for(int line=1; line<=8; line++){
+            System.out.println("****");
+        }
+    }
+}
